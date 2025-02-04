@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek</h1>
-<h3 align="center">I'm a third-year Computer Science Engineering student at Thapar University, Patiala. I have an inclination in the field of Data Science and Machine Learning.</h3>
+<h3 align="center">I'm a third-year Computer Science Engineering student at Thapar University, Patiala.</h3>
 
 - 🌱 I’m currently learning **React**
 
