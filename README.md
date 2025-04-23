@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 <h3 align="center">I'm a third-year Computer Engineering student at Thapar University</h3>
 
-- 🌱 I’m currently learning **PostgresSQL**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 📫 How to reach me **4944.prateek@gmail.com**
 
