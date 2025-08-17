@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek</h1>
-<h3 align="center">A Final Year Computer Engineering Student</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prateekshukla17" alt="prateekshukla17" /></a> </p>
+<h3 align="center">A Passsionate Backend Developer and a Final Year Computer Engineering Student</h3>
 
 - 🔭 I’m currently working on **Building MCP Clients**
 
