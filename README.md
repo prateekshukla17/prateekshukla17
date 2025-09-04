@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building MCP Clients**
 
-- 🌱 I’m currently learning **System Design and Scalable Backends**
+- 🌱 I’m currently learning **System Design and Scalable Backend Systems**
 
 - 📫 How to reach me **4944.prateek@gmail.com**
 
